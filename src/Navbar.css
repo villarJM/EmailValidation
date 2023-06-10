@@ -1,0 +1,34 @@
+.InputBox {
+    position: relative;
+    padding: 40px;
+    /* border: 1px solid #000; */
+    justify-content: center;
+}
+.nav-item {
+    position: relative;
+    margin: auto;
+    width: 500px;
+    border-bottom: 1px solid blue;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.linknav {
+    text-decoration: none;
+}
+
+.email {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border: hidden;
+}
+
+.submit {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border: hidden;
+}

@@ -1,0 +1,11 @@
+.listEmail {
+    position: relative;
+    /* border: 1px solid #000; */
+    margin: 50px;
+}
+.ullist {
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #646c9a;
+}

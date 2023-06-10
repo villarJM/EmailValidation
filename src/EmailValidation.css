@@ -1,0 +1,41 @@
+.EmailInformation {
+    position: relative;
+    /* border: 1px solid #000; */
+    margin: 50px;
+}
+
+.ListInformation {
+    list-style: none;
+    margin-left: 100px;
+    margin-right: 147px;
+}
+
+.ListInfo {
+    /* border: 1px solid #000; */
+    margin: 20px;
+    height: 30px;
+}
+.Titulo {
+    color: #646c9a;
+    font-weight: 700;
+}
+.Info {
+    position: relative;
+    width: 190px;
+    height: 30px;
+    bottom: 25px;
+    /* border: 1px solid #000; */
+    left: 750px;
+    text-align: center;
+    background-color: rgb(0, 118, 229);
+    box-shadow: 0 0 .1rem rgb(0, 118, 229),
+        0 0 .1rem rgb(0, 118, 229),
+        0 0 1rem rgb(0, 118, 229),
+        0 0 0.5rem rgb(0, 118, 229),
+        0 0 0.5rem rgb(0, 118, 229),
+        inset 0 0 1.3rem rgb(0, 118, 229);
+    color: #fff;
+    font-size: 10px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
